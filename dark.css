@@ -1,0 +1,23 @@
+body.dark{
+    background: #000;
+}
+.kontainer.dark {
+    background: #6d6d6d;
+}
+.kontainer.dark h1{
+    color: #1a1b3f;
+}
+.kontainer.dark button{
+    background: #30303e;
+}
+
+.kontainer.dark li a{
+    background: #1b1c2c;
+
+}
+.kontainer.dark li a.aktiv{
+    background: #01031c;
+}
+.kontainer.dark figure{
+    background: #393939;
+}
